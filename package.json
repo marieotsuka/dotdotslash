@@ -1,0 +1,24 @@
+{
+  "name": "sig",
+  "version": "1.0.0",
+  "description": "Site Inspector / Generator — a visual interface for SSG",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marieotsuka/sig.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marieotsuka/sig/issues"
+  },
+  "homepage": "https://github.com/marieotsuka/sig#readme",
+  "devDependencies": {
+    "electron": "^12.0.2"
+  }
+}
